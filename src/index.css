@@ -1,0 +1,17 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color:#000B58;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.card{
+    max-width: 300px;
+    border-radius: 0.5rem;
+    border: 1px solid black;
+}
